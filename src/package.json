@@ -1,0 +1,12 @@
+{
+  "name": "antd-form-input-prime-number",
+  "version": "1.0.0",
+  "description": "taken from \n\nhttps://ant.design/components/form/",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "antd": "3.26.19",
+    "react": "16.8.1",
+    "react-dom": "16.8.1"
+  }
+}
